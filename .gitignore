@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+ENV/
+.viclix
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.vscode/
+.idea/
